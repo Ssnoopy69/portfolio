@@ -21,6 +21,8 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
+import dstu from "./company/dstu.png";
+import users from "./company/users.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -53,6 +55,8 @@ export {
   typescript,
   threejs,
   meta,
+  dstu,
+  users,
   shopify,
   starbucks,
   tesla,
